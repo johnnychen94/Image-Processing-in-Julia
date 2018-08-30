@@ -1,14 +1,17 @@
 # Digital-Image-Processing-Gonzalez
 Codes for most examples in the famous textbook Digital Image Processing (Gonzalez) [3rd Edition [Amazon]](https://www.amazon.com/Digital-Image-Processing-Rafael-Gonzalez/dp/013168728X/ref=sr_1_2?ie=UTF8&qid=1535526723&sr=8-2&keywords=digital+image+processing). I hope this can help you understand the mentioned concepts better.
 
+
 ## Usage
 * For Julia: running the `ipynb` file in jupyter notebook and see what happens. The `ipynb` files contain results for convenience. Check [IJulia](https://github.com/JuliaLang/IJulia.jl) for installation.
 * For Matlab: Just run the `m` files in your MATLAB and see what happens.
 
+For personal reason, Julia version might be better than MATLAB version since I make a lot of comments and explanations.
+
 ## TOC for 3rd Edition
 * **Chapter 2 : Digital Image Fundamentals**
-	- [ ] EXAMPLE 2.2: Illustration of the effects of reducing image spatial resolution. Including Figure 2.20
-	- [ ] EXAMPLE 2.3: Typical effects of varing the number of intensity levels in a digital image. Inlcuding Figure 2.21
+	- [x] EXAMPLE 2.2: Illustration of the effects of reducing image spatial resolution. Including Figure 2.20 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-2.ipynb)
+	- [x] EXAMPLE 2.3: Typical effects of varing the number of intensity levels in a digital image. Inlcuding Figure 2.21 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-3.ipynb)
 	- [ ] EXAMPLE 2.4: Comparison of interpolation approaches for image shrinking and zooming. 
 	- [ ] EXAMPLE 2.5: Addition (averaging) of noisy images for noise reduction. Including Figure 2.26
 	- [ ] EXAMPLE 2.6: Image subtraction for enhancing differences. Including Figure 2.27, 2.28
