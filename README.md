@@ -4,15 +4,14 @@ Codes for most examples in the famous textbook Digital Image Processing (Gonzale
 
 ## Usage
 * For Julia: running the `ipynb` file in jupyter notebook and see what happens. The `ipynb` files contain results for convenience. Check [IJulia](https://github.com/JuliaLang/IJulia.jl) for installation.
-* For Matlab: Just run the `m` files in your MATLAB and see what happens.
 
-For personal reason, Julia version might be better than MATLAB version since I make a lot of comments and explanations.
+I add a lot of explanations and additional codes for these examples.
 
 ## TOC for 3rd Edition
 * **Chapter 2 : Digital Image Fundamentals**
 	- [x] EXAMPLE 2.2: Illustration of the effects of reducing image spatial resolution. Including Figure 2.20 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-2.ipynb)
 	- [x] EXAMPLE 2.3: Typical effects of varing the number of intensity levels in a digital image. Inlcuding Figure 2.21 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-3.ipynb)
-	- [ ] EXAMPLE 2.4: Comparison of interpolation approaches for image shrinking and zooming. 
+	- [x] EXAMPLE 2.4: Comparison of interpolation approaches for image shrinking and zooming. [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-4.ipynb) (Uncomplete)
 	- [ ] EXAMPLE 2.5: Addition (averaging) of noisy images for noise reduction. Including Figure 2.26
 	- [ ] EXAMPLE 2.6: Image subtraction for enhancing differences. Including Figure 2.27, 2.28
 	- [ ] EXAMPLE 2.7: Using image multiplication and division for shading correction. Including Figure 2.29
