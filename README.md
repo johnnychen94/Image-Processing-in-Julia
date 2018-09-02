@@ -11,9 +11,9 @@ I add a lot of explanations and additional codes for these examples.
 * **Chapter 2 : Digital Image Fundamentals**
 	- [x] EXAMPLE 2.2: Illustration of the effects of reducing image spatial resolution. Including Figure 2.20 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-2.ipynb)
 	- [x] EXAMPLE 2.3: Typical effects of varing the number of intensity levels in a digital image. Inlcuding Figure 2.21 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-3.ipynb)
-	- [x] EXAMPLE 2.4: Comparison of interpolation approaches for image shrinking and zooming. Including Figure 2.24 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-4.ipynb) (Uncomplete)
-	- [ ] EXAMPLE 2.5: Addition (averaging) of noisy images for noise reduction. Including Figure 2.26 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-5.ipynb)
-	- [ ] EXAMPLE 2.6: Image subtraction for enhancing differences. Including Figure 2.27, 2.28
+	- [x] EXAMPLE 2.4: Comparison of interpolation approaches for image shrinking and zooming. Including Figure 2.24 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-4.ipynb) (Uncomplete: bicubic)
+	- [x] EXAMPLE 2.5: Addition (averaging) of noisy images for noise reduction. Including Figure 2.26 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-5.ipynb)
+	- [x] EXAMPLE 2.6: Image subtraction for enhancing differences. Including Figure 2.27, 2.28 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-6.ipynb) (Uncomplete: Figure 2.27)
 	- [ ] EXAMPLE 2.7: Using image multiplication and division for shading correction. Including Figure 2.29
 	- [ ] EXAMPLE 2.8: Set operations involving image intensities. Including Figure 2.32
 	- [ ] EXAMPLE 2.9: Image rotation and intensity interpolation. Including Figure 2.36
