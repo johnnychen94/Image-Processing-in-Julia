@@ -14,9 +14,9 @@ I add a lot of explanations and additional codes for these examples.
 	- [x] EXAMPLE 2.4: Comparison of interpolation approaches for image shrinking and zooming. Including Figure 2.24 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-4.ipynb) (Uncomplete: bicubic)
 	- [x] EXAMPLE 2.5: Addition (averaging) of noisy images for noise reduction. Including Figure 2.26 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-5.ipynb)
 	- [x] EXAMPLE 2.6: Image subtraction for enhancing differences. Including Figure 2.27, 2.28 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-6.ipynb) (Uncomplete: Figure 2.27)
-	- [ ] EXAMPLE 2.7: Using image multiplication and division for shading correction. Including Figure 2.29
-	- [ ] EXAMPLE 2.8: Set operations involving image intensities. Including Figure 2.32
-	- [ ] EXAMPLE 2.9: Image rotation and intensity interpolation. Including Figure 2.36
+	- [x] EXAMPLE 2.7: Using image multiplication and division for shading correction. Including Figure 2.29, 2.30 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-7.ipynb)
+	- [x] EXAMPLE 2.8: Set operations involving image intensities. Including Figure 2.32 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-8.ipynb)
+	- [x] EXAMPLE 2.9: Image rotation and intensity interpolation. Including Figure 2.36 [ipynb](DIP3E/Codes/Julia/Chapter-2/Example2-8.ipynb)
 	- [ ] EXAMPLE 2.10: Image registration. Including Figure 2.37
 	- [ ] EXAMPLE 2.11: Image processing in the transform domain. Including Figure 2.40
 	- [ ] EXAMPLE 2.12: Comparison of standard deviation values as measures of image intensity contrast. Including Figure 2.41
