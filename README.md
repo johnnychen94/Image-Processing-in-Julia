@@ -1,6 +1,7 @@
 # Digital-Image-Processing-Gonzalez
 Codes for most examples in the famous textbook Digital Image Processing (Gonzalez) [3rd Edition [Amazon]](https://www.amazon.com/Digital-Image-Processing-Rafael-Gonzalez/dp/013168728X/ref=sr_1_2?ie=UTF8&qid=1535526723&sr=8-2&keywords=digital+image+processing). I hope this can help you understand the mentioned concepts better.
 
+This is the tutorial project for students in East China Normal Univsersity.
 
 ## Usage
 * For Julia: running the `ipynb` file in jupyter notebook and see what happens. The `ipynb` files contain results for convenience. Check [IJulia](https://github.com/JuliaLang/IJulia.jl) for installation.
