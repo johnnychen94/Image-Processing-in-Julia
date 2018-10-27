@@ -1,13 +1,12 @@
 
 # coding: utf-8
 
-# In[4]:
-
-
 # Gozalez examples 3.1 
 # contrast enhance using gamma transformation 
 
-# importing matplotlib modules 
+# In[1]:
+
+
 import matplotlib.image as mpimg 
 import matplotlib.pyplot as plt
 
@@ -18,7 +17,7 @@ img = mpimg.imread('Fig0308(a)(fractured_spine).tif')
 plt.imshow(img,'gray')
 
 
-# In[6]:
+# In[2]:
 
 
 img_b = img**0.6
@@ -26,20 +25,14 @@ img_c = img**0.4
 img_d = img**0.3
 
 
-# In[8]:
+# In[3]:
 
 
+plt.figure()
+plt.subplot(1,3,1)
 plt.imshow(img_b,'gray')
-
-
-# In[9]:
-
-
+plt.subplot(1,3,2)
 plt.imshow(img_c,'gray')
-
-
-# In[10]:
-
-
-plt.imshow(img_d,'gray')
+plt.subplot(1,3,3)
+plt.imshow(img_c,'gray')
 
