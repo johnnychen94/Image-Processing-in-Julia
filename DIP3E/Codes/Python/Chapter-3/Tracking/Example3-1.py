@@ -11,7 +11,7 @@ import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 
 # Read Images 
-img = mpimg.imread('Fig0308(a)(fractured_spine).tif') 
+img = mpimg.imread('./Data/Fig0308(a)(fractured_spine).tif') 
   
 # Output Images 
 plt.imshow(img,'gray')
