@@ -10,18 +10,19 @@ Based on these examples, explanations and additional codes are added for better 
 
 ## TOC for 3rd Edition
 * **Chapter 2 : Digital Image Fundamentals**
-	- [x] EXAMPLE 2.2: Illustration of the effects of reducing image spatial resolution. Including Figure 2.20 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-2.ipynb)
-	- [x] EXAMPLE 2.3: Typical effects of varing the number of intensity levels in a digital image. Inlcuding Figure 2.21 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-3.ipynb)
-	- [x] EXAMPLE 2.4: Comparison of interpolation approaches for image shrinking and zooming. Including Figure 2.24 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-4.ipynb) (Uncomplete: bicubic)
-	- [x] EXAMPLE 2.5: Addition (averaging) of noisy images for noise reduction. Including Figure 2.26 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-5.ipynb)
-	- [x] EXAMPLE 2.6: Image subtraction for enhancing differences. Including Figure 2.27, 2.28 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-6.ipynb) (Uncomplete: Figure 2.27)
-	- [x] EXAMPLE 2.7: Using image multiplication and division for shading correction. Including Figure 2.29, 2.30 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-7.ipynb)
-	- [x] EXAMPLE 2.8: Set operations involving image intensities. Including Figure 2.32 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-8.ipynb)
-	- [x] EXAMPLE 2.9: Image rotation and intensity interpolation. Including Figure 2.36 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-9.ipynb)
-	- [ ] EXAMPLE 2.10: Image registration. Including Figure 2.37
-	- [ ] EXAMPLE 2.11: Image processing in the transform domain. Including Figure 2.40
-	- [ ] EXAMPLE 2.12: Comparison of standard deviation values as measures of image intensity contrast. Including Figure 2.41
+  - [x] EXAMPLE 2.2: Illustration of the effects of reducing image spatial resolution. Including Figure 2.20 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-2.ipynb)
+  - [x] EXAMPLE 2.3: Typical effects of varing the number of intensity levels in a digital image. Inlcuding Figure 2.21 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-3.ipynb)
+  - [x] EXAMPLE 2.4: Comparison of interpolation approaches for image shrinking and zooming. Including Figure 2.24 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-4.ipynb) (Uncomplete: bicubic)
+  - [x] EXAMPLE 2.5: Addition (averaging) of noisy images for noise reduction. Including Figure 2.26 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-5.ipynb)
+  - [x] EXAMPLE 2.6: Image subtraction for enhancing differences. Including Figure 2.27, 2.28 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-6.ipynb) (Uncomplete: Figure 2.27)
+  - [x] EXAMPLE 2.7: Using image multiplication and division for shading correction. Including Figure 2.29, 2.30 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-7.ipynb)
+  - [x] EXAMPLE 2.8: Set operations involving image intensities. Including Figure 2.32 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-8.ipynb)
+  - [x] EXAMPLE 2.9: Image rotation and intensity interpolation. Including Figure 2.36 [Julia](DIP3E/Codes/Julia/Chapter-2/Example2-9.ipynb)
+  - [ ] EXAMPLE 2.10: Image registration. Including Figure 2.37
+  - [ ] EXAMPLE 2.11: Image processing in the transform domain. Including Figure 2.40
+  - [ ] EXAMPLE 2.12: Comparison of standard deviation values as measures of image intensity contrast. Including Figure 2.41
 * **Chapter 3 : Intensity Transformations and Spatial Filtering**
+  - [x] EXAMPLE 2.2: Enhance contrast using gamma transformation. Including Figure 3.8  [Python](DIP3E/Codes/Python/Gonzalez_example_3_1.py)
 * **Chapter 4 : Filtering in the Frequency Domain**
 * **Chapter 5 : Image Restoration and Reconstruction**
 * **Chapter 6 : Color Image Processing**
