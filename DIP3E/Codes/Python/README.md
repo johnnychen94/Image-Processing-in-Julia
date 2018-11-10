@@ -1,11 +1,11 @@
-# Julia
+# Python
 
-This folder containes Julia codes
+This folder containes Python codes
 
 Structure:
 
 * `Data` contains image data used for example codes
-* `Tracking` contains `jl` files for commit diff tracking
+* `Tracking` contains `py` files for commit diff tracking
 
 # Usage
 

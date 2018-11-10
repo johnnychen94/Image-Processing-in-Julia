@@ -22,8 +22,8 @@ Based on these examples, explanations and additional codes are added for better 
   - [ ] EXAMPLE 2.11: Image processing in the transform domain. Including Figure 2.40
   - [ ] EXAMPLE 2.12: Comparison of standard deviation values as measures of image intensity contrast. Including Figure 2.41
 * **Chapter 3 : Intensity Transformations and Spatial Filtering**
-  - [x] EXAMPLE 3.1:Enhance contrast using gamma transformation.Including Figure.8 [Python](F:\python_gonzalez\Digital-Image-Processing-Gonzalez\DIP3E\Codes\Python\Gonzalez_example_3_1.ipynb)
-  - [x] EXAMPLE 3.2:Enhance contrast using gamma transformation.Including Figure.9 [Python](F:\python_gonzalez\Digital-Image-Processing-Gonzalez\DIP3E\Codes\Python\Gonzalez_example_3_2.ipynb)
+  - [x] EXAMPLE 3.1: Contrast enhancement using power-law transformations. Including Figure 3.8  [Python](DIP3E/Codes/Python/Chapter-3/Example3-1.ipynb)
+  - [x] EXAMPLE 3.2: Another illustration of power-law transformations. Including Figure 3.9  [Python](DIP3E/Codes/Python/Chapter-3/Example3-2.ipynb)
 * **Chapter 4 : Filtering in the Frequency Domain**
 * **Chapter 5 : Image Restoration and Reconstruction**
 * **Chapter 6 : Color Image Processing**
