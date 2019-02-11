@@ -4,9 +4,9 @@ Codes for most examples in the famous textbook Digital Image Processing (Gonzale
 ## Usage
 * For Julia: running the `ipynb` file in jupyter notebook and see what happens. The `ipynb` files contain results for convenience and `jl` files are used to track differences. Check [IJulia](https://github.com/JuliaLang/IJulia.jl) for installation and usage.
 * For Python: same as Julia. `py` files are used to track differences.
-* For MATLAB: since MATLAB live script doesn't perform well, `m` file is provided without results.
+* For MATLAB: since MATLAB live script runs very slow at present, `m` file is provided without results.
 
-Based on these examples, explanations and additional codes are added for better understanding.
+Explanations and additional codes are added to these examples for better understanding.
 
 ## TOC for 3rd Edition
 * **Chapter 2 : Digital Image Fundamentals**
@@ -24,6 +24,18 @@ Based on these examples, explanations and additional codes are added for better 
 * **Chapter 3 : Intensity Transformations and Spatial Filtering**
   - [x] EXAMPLE 3.1: Contrast enhancement using power-law transformations. Including Figure 3.8  [Python](DIP3E/Codes/Python/Chapter-3/Example3-1.ipynb)
   - [x] EXAMPLE 3.2: Another illustration of power-law transformations. Including Figure 3.9  [Python](DIP3E/Codes/Python/Chapter-3/Example3-2.ipynb)
+  - [x] EXAMPLE 3.3: Intensity-level slicing. Including Figure 3.12  [Python](DIP3E/Codes/Python/Chapter-3/Example3-3.ipynb)
+  - [ ] EXAMPLE 3.6: Histogram equalization. Including Figure 3.20
+  - [ ] EXAMPLE 3.9: Comparison between histogram equalization and histogram matching. Including Figure 3.23, 3.24, and 3.25
+  - [ ] EXAMPLE 3.10: Local histogram equalization. Including Figure 3.26
+  - [ ] EXAMPLE 3.12: Local enhancement using histogram statistics. Including Figure 3.27
+  - [ ] EXAMPLE 3.13: Image smoothing with masks of various sizes. Including Figure 3.33
+  - [ ] EXAMPLE 3.14: Use of median filtering for noise reduction. Including Figure 3.35
+  - [ ] EXAMPLE 3.15: Image sharpening using the Laplacian. Including Figure 3.38
+  - [ ] EXAMPLE 3.16: Image sharpening using unsharp masking. Including Figure 3.40
+  - [ ] EXAMPLE 3.17: Use of the gradient for edge enhancement. Including Figure 3.42
+  - [ ] EXAMPLE 3.19: Illustration of image enhancement using fuzzy, rulebased contrast modification. Including Figure 3.54 and 3.55
+  - [ ] EXAMPLE 3.20: Illustration of boundary enhancement using fuzzy, rulebased spatial filtering. Including Figure 3.59
 * **Chapter 4 : Filtering in the Frequency Domain**
 * **Chapter 5 : Image Restoration and Reconstruction**
 * **Chapter 6 : Color Image Processing**
