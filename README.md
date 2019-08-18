@@ -1,6 +1,10 @@
 # Digital-Image-Processing-Gonzalez
 Codes for most examples in the famous textbook Digital Image Processing (Gonzalez) [3rd Edition [Amazon]](https://www.amazon.com/Digital-Image-Processing-Rafael-Gonzalez/dp/013168728X/ref=sr_1_2?ie=UTF8&qid=1535526723&sr=8-2&keywords=digital+image+processing). I hope this can help you understand the mentioned concepts better.
 
+!!! warning
+
+I stopped contributing new demos to this repo because I put most of my free time developing JuliaImages, and because I'm trying to find a way to write a good quality demos (CI support, source control, good looking). I'll eventually come back to this repo when most image processing tasks are covered by JuliaImages. ETA -- early 2020
+
 ## Usage
 * For Julia: running the `ipynb` file in jupyter notebook and see what happens. The `ipynb` files contain results for convenience and `jl` files are used to track differences. Check [IJulia](https://github.com/JuliaLang/IJulia.jl) for installation and usage.
 * For Python: same as Julia. `py` files are used to track differences.
@@ -58,6 +62,3 @@ For example you don't understand and want codes *immediately*, you could create 
 	* you should contain the corresponding `py` or `jl` files for easy diff tracking. Make sure `py` and `ipynb` contains the same codes.
 	* make sure to `restart kernel and run all cells` to keep your results for connivence
 	* make sure to delete unnecessary empty cells, e.g., the last one
-
-## Links:
-* ~You may also want to try [Dive into Julia](https://github.com/johnnychen94/Dive-Into-Julia), which is a "Learn Julia the Hard Way" tutorial.~
