@@ -1,4 +1,6 @@
+name = "DIPTutorials"
 authors = ["Johnny Chen <johnnychen94@hotmail.com>"]
+version = "0.0.1"
 
 [deps]
 DemoCards = "311a05b2-6137-4a5a-b473-18580a3d38b5"
