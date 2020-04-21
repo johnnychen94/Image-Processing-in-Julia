@@ -47,21 +47,24 @@
 ## 代码环境
 
 每段代码均提供三个版本：网页版（你正在阅读的内容）、源代码以及基于nbviewer的jupyter notebook版本。如果想要在本地搭建同样的环境并执行，
-只需要使用同样的 [`Project.toml`](https://github.com/johnnychen94/Image-Processing-in-Julia/blob/master/Project.toml)
+只需要使用同样的 [`Project.toml`](https://github.com/johnnychen94/Image-Processing-in-Julia/blob/master/docs/Project.toml)
 文件即可，在 linux 和 macos 的命令行下可以这样操作：
 
 ```bash
 # bash
 git clone https://github.com/johnnychen94/Image-Processing-in-Julia.git
 cd "Image-Processing-in-Julia"
-julia --project=. -e "using Pkg; Pkg.instantiate()"
+# 初始化 docs 项目
+julia --project=docs/ -e "using Pkg; Pkg.instantiate()"
+# 打开 Julia 并激活 docs 项目
+julia --project=docs/
 ```
 
 下面是本文档编译时使用的版本，如果你在运行文档时遇到错误，请检查使用的 Julia 及相应工具箱版本。
 
 ```@setup version
 using Pkg, InteractiveUtils
-Pkg.activate("../..")
+Pkg.activate("..")
 ```
 
 ```@repl version
