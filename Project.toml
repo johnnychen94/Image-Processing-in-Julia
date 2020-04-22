@@ -4,7 +4,6 @@ authors = ["Johnny Chen <johnnychen94@hotmail.com>"]
 version = "0.0.1"
 
 [deps]
-DemoCards = "311a05b2-6137-4a5a-b473-18580a3d38b5"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 ZipFile = "a5390f91-8eb1-5f08-bee0-b1d1ffed6cea"
