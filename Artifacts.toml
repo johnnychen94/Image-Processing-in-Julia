@@ -1,2 +1,47 @@
-[dip3e_data]
-git-tree-sha1 = "e9407efbcf0ffaa7a8a893273dbbb5b61036a45b"
+[DIP3E_CH01]
+git-tree-sha1 = "18b81545e580af0699745f91393977e1617315bc"
+lazy = true
+
+[DIP3E_CH02]
+git-tree-sha1 = "d928d410e178f7ee19bf400894dd5e597a3b5f66"
+lazy = true
+
+[DIP3E_CH03]
+git-tree-sha1 = "9d4fbeea41b07048e6450ab206ecb967650974a0"
+lazy = true
+
+[DIP3E_CH04]
+git-tree-sha1 = "2e60464db6f3ae092ea73b76c6b223f16ed69a06"
+lazy = true
+
+[DIP3E_CH05]
+git-tree-sha1 = "722b6ca2bf55cfb6276de943b799878d7bdaf86d"
+lazy = true
+
+[DIP3E_CH06]
+git-tree-sha1 = "f8c83986d323f543038238abd09353f6692c35af"
+lazy = true
+
+[DIP3E_CH07]
+git-tree-sha1 = "461c072d42fcf59e94b98fb363838c865be3637a"
+lazy = true
+
+[DIP3E_CH08]
+git-tree-sha1 = "282fade75f1848efe5f8c75b486fdf951b8b5ba6"
+lazy = true
+
+[DIP3E_CH09]
+git-tree-sha1 = "3bc0758e9d4074bcc62874782b1a8d7afa7fbcf3"
+lazy = true
+
+[DIP3E_CH10]
+git-tree-sha1 = "108e47857396594f85ccfb6ff20c93080e633733"
+lazy = true
+
+[DIP3E_CH11]
+git-tree-sha1 = "e257d79e109cc2023ef76f2640e3f1dbab350a2c"
+lazy = true
+
+[DIP3E_CH12]
+git-tree-sha1 = "7fde972f9451d2590196cfeb21bf07669613fec5"
+lazy = true

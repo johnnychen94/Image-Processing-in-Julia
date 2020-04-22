@@ -12,7 +12,7 @@ A helper package for DIP tutorials: https://johnnychen94.github.io/Image-Process
 
 ```julia
 using DIPTutorials, FileIO
-imgfile = DIP3e.get_filepath("0101") # figure 1 in chapter 1
+imgfile = DIP3e.get_filepath("0101") # figure 1.1
 img = load(imgfile)
 ```
 """
