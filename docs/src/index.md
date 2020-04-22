@@ -76,7 +76,14 @@ Pkg.status()
 ```
 
 其中 [`DemoCards`](https://github.com/johnnychen94/DemoCards.jl) 与 [`Documenter`](https://github.com/JuliaDocs/Documenter.jl)
-是用来生成本文档的工具，可以不用关注。
+是用来生成本文档的工具，可以不用关注。除此之外的包均需要安装，安装可以通过下述方式进行：
+
+```julia
+# 安装 Images 等包
+(v1.4) pkg> add Images@0.22
+# 安装 DIPTutorials -- not registered in General
+(v1.4) pkg> add https://github.com/johnnychen94/Image-Processing-in-Julia
+```
 
 ## 参考文献
 

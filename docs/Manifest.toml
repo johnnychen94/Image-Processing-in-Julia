@@ -86,9 +86,9 @@ version = "1.0.0"
 
 [[DIPTutorials]]
 deps = ["DemoCards", "Pkg", "Printf", "ZipFile"]
-git-tree-sha1 = "ef0515a964e595d8a1f32fa260c71da2e7033124"
+git-tree-sha1 = "68cced0a91fa89800b755b1cf4a50cbc491bded2"
 repo-rev = "master"
-repo-url = "https://github.com/johnnychen94/Image-Processing-in-Julia.git"
+repo-url = "https://github.com/johnnychen94/Image-Processing-in-Julia"
 uuid = "cd44d23c-5813-4f94-9d85-42c716d3e259"
 version = "0.0.1"
 
