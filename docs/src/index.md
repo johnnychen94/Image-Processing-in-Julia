@@ -48,7 +48,8 @@
 
 每段代码均提供三个版本：网页版（你正在阅读的内容）、源代码以及基于nbviewer的jupyter notebook版本。如果想要在本地搭建同样的环境并执行，
 只需要使用同样的 [`Project.toml`](https://github.com/johnnychen94/Image-Processing-in-Julia/blob/master/docs/Project.toml)
-文件即可，在 linux 和 macos 的命令行下可以这样操作：
+和 [`Manifest.toml`](https://github.com/johnnychen94/Image-Processing-in-Julia/blob/master/docs/Manifest.toml)
+即可，在 linux 和 macos 的命令行下可以这样操作：
 
 ```bash
 # bash
